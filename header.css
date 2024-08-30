@@ -4,3 +4,7 @@ cabecalho_menu_hamburguer{
     background-image: url("../img/menu.svg");
 display: inline-block;
 }
+
+.cabeçalho{
+     background-color: var(--branco);
+}
